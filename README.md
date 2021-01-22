@@ -1,0 +1,2 @@
+# House-Rent-management-System
+House Rental System application will make easy to find the location of Rooms/Flats/Houses, select no. of rooms and other facts by the renter.It will make easy to upload the location, contact No. , expected rent, No. of rooms, Facilities and other information by landlord/room-master.This application will be able to show the rooms/flats/houses with in a particular area selected by user.
